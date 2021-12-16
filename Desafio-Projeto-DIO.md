@@ -112,14 +112,14 @@ Lembre-se de que o *commit* grava o *snapshot* que você deixou na área de *sta
 
 ##### Principais atalhos
 
-- git config --global user.name "Fulano de Tal" ----------------------- (Altera nome do username)
-- git config --global user.email fulanodetal@exemplo.br --------- (Altera e-mail do usuário)
-- git help <verb> ---------------------------------------------------------------- (Solicitar ajuda de algum comando) 
-- git init  ----------------------------------------------------------------------------- (Cria um novo repositório)
-- git add <file-name> -------------------------------------------------------- (começar a monitorar esses arquivos e fazer um *commit* inicial.)
-- git clone --------------------------------------------------------------------------  (Faz um clone de um repositório através de uma url, por exemplo)
-- git status -------------------------------------------------------------------------- (Verifica o status dos arquivos)
-- git commit 
+- git config --global user.name "Fulano de Tal" - (Altera nome do username)
+- git config --global user.email fulanodetal@exemplo.br - (Altera e-mail do usuário)
+- git help <verb> - (Solicitar ajuda de algum comando) 
+- git init  - (Cria um novo repositório)
+- git add <file-name> - (começar a monitorar esses arquivos e fazer um *commit* inicial.)
+- git clone -  (Faz um clone de um repositório através de uma url, por exemplo)
+- git status - (Verifica o status dos arquivos)
+- git commit - (grava um *snapshot* do seu projeto)
 
 
 
@@ -127,4 +127,4 @@ Lembre-se de que o *commit* grava o *snapshot* que você deixou na área de *sta
 
 
 
-Trechos extraídos da [documentação git] (https://git-scm.com/doc)  
+Trechos extraídos da [documentação git](https://git-scm.com/doc)  
